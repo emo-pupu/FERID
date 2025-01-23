@@ -16,5 +16,5 @@ Facial expression recognition (FER) has emerged as an important research topic i
 ## Statistics
 ![Statistics](./assets/Statistics.png)
 
-## Statistics
+## Instruction Exmaple
 ![Instruction_exmaple](./assets/Instruction_example.png)
