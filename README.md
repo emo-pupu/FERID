@@ -2,7 +2,7 @@
 
 # 📰 News
 
-- **[2025-01]: FERID is now available at [Google Drive](https://drive.google.com/drive/folders/1IUTM9gRHy406U1hM4hsOaPtzPg1o8g3L?usp=drive_link)**
+- **[2025-01]: The MAFW part in FERID is now available at [Google Drive](https://drive.google.com/drive/folders/1IUTM9gRHy406U1hM4hsOaPtzPg1o8g3L?usp=drive_link)**
 
 # ✏️ Abstract
 
